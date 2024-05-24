@@ -4,7 +4,7 @@ Add *_local* to the global gitignore file.
 
 Keep development artifacts near where your code is.
 
-Never touch `.gitignore` files again.
+No more tinkering with `.gitignore` files.
 
 ## Setup
 
