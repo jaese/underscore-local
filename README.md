@@ -8,8 +8,16 @@ No more tinkering with `.gitignore` files.
 
 ## Setup
 
+```
+$ cat <<EOF >> .gitignore
+_local/
+_local_*
+EOF
+```
 
-```sh
+Or, set up as a global `.gitignore` file:
+
+```
 $ cat <<EOF >> ~/.gitignore
 _local/
 _local_*
