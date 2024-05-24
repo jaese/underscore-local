@@ -1,10 +1,12 @@
-# Your `.gitignore` only needs _local
+# When in doubt, put it in `_local`
 
 Add *_local* to the top gitignore file.
 
-Keep development artifacts near where your code is.
+Keep development artifacts near where the code is.
 
 No more tinkering with `.gitignore` files.
+
+No more hunting down where you last downloaded that file.
 
 ## Setup
 
